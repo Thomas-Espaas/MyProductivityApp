@@ -1,0 +1,247 @@
+,Start date,End date,Label,Identifier level,Identifier,Condition type,Quantity
+0,2025-01-06,2025-01-12,Reading,2,Reading,Count,2
+1,2025-01-13,2025-01-19,Reading,2,Reading,Count,2
+2,2025-01-20,2025-01-26,Reading,2,Reading,Count,2
+3,2025-01-27,2025-02-02,Reading,2,Reading,Count,2
+4,2025-02-03,2025-02-09,Reading,2,Reading,Count,2
+5,2025-02-10,2025-02-16,Reading,2,Reading,Count,2
+6,2025-02-17,2025-02-23,Reading,2,Reading,Count,2
+7,2025-02-24,2025-03-02,Reading,2,Reading,Count,2
+8,2025-03-03,2025-03-09,Reading,2,Reading,Count,2
+9,2025-03-10,2025-03-16,Reading,2,Reading,Count,2
+10,2025-03-17,2025-03-23,Reading,2,Reading,Count,2
+11,2025-03-24,2025-03-30,Reading,2,Reading,Count,2
+12,2025-03-31,2025-04-06,Reading,2,Reading,Count,2
+13,2025-04-07,2025-04-13,Reading,2,Reading,Count,2
+14,2025-04-14,2025-04-20,Reading,2,Reading,Count,2
+15,2025-04-21,2025-04-27,Reading,2,Reading,Count,2
+16,2025-04-28,2025-05-04,Reading,2,Reading,Count,2
+17,2025-05-05,2025-05-11,Reading,2,Reading,Count,2
+18,2025-05-12,2025-05-18,Reading,2,Reading,Count,2
+19,2025-05-19,2025-05-25,Reading,2,Reading,Count,2
+20,2025-05-26,2025-06-01,Reading,2,Reading,Count,2
+21,2025-06-02,2025-06-08,Reading,2,Reading,Count,2
+22,2025-06-09,2025-06-15,Reading,2,Reading,Count,2
+23,2025-06-16,2025-06-22,Reading,2,Reading,Count,2
+24,2025-06-23,2025-06-29,Reading,2,Reading,Count,2
+25,2025-06-30,2025-07-06,Reading,2,Reading,Count,2
+26,2025-07-07,2025-07-13,Reading,2,Reading,Count,2
+27,2025-07-14,2025-07-20,Reading,2,Reading,Count,2
+28,2025-07-21,2025-07-27,Reading,2,Reading,Count,2
+29,2025-07-28,2025-08-03,Reading,2,Reading,Count,2
+30,2025-08-04,2025-08-10,Reading,2,Reading,Count,2
+31,2025-08-11,2025-08-17,Reading,2,Reading,Count,2
+32,2025-08-18,2025-08-24,Reading,2,Reading,Count,2
+33,2025-08-25,2025-08-31,Reading,2,Reading,Count,2
+34,2025-09-01,2025-09-07,Reading,2,Reading,Count,2
+35,2025-09-08,2025-09-14,Reading,2,Reading,Count,2
+36,2025-09-15,2025-09-21,Reading,2,Reading,Count,2
+37,2025-09-22,2025-09-28,Reading,2,Reading,Count,2
+38,2025-09-29,2025-10-05,Reading,2,Reading,Count,2
+39,2025-10-06,2025-10-12,Reading,2,Reading,Count,2
+40,2025-10-13,2025-10-19,Reading,2,Reading,Count,2
+41,2025-10-20,2025-10-26,Reading,2,Reading,Count,2
+42,2025-10-27,2025-11-02,Reading,2,Reading,Count,2
+43,2025-11-03,2025-11-09,Reading,2,Reading,Count,2
+44,2025-11-10,2025-11-16,Reading,2,Reading,Count,2
+45,2025-11-17,2025-11-23,Reading,2,Reading,Count,2
+46,2025-11-24,2025-11-30,Reading,2,Reading,Count,2
+47,2025-12-01,2025-12-07,Reading,2,Reading,Count,2
+48,2025-12-08,2025-12-14,Reading,2,Reading,Count,2
+49,2025-12-15,2025-12-21,Reading,2,Reading,Count,2
+50,2025-12-22,2025-12-28,Reading,2,Reading,Count,2
+51,2025-01-06,2025-01-19,Climbing,2,Climbing,Count,2
+52,2025-01-06,2025-01-19,Running,2,Running,Count,1
+53,2025-01-06,2025-01-19,Strength,2,Strength,Count,1
+54,2025-01-06,2025-01-19,Technical skills,2,Technical skills,Count,1
+55,2025-01-06,2025-01-19,Languages,2,Languages,Count,1
+56,2025-01-20,2025-02-02,Climbing,2,Climbing,Count,2
+57,2025-01-20,2025-02-02,Running,2,Running,Count,1
+58,2025-01-20,2025-02-02,Strength,2,Strength,Count,1
+59,2025-01-20,2025-02-02,Technical skills,2,Technical skills,Count,1
+60,2025-01-20,2025-02-02,Languages,2,Languages,Count,1
+61,2025-02-03,2025-02-16,Climbing,2,Climbing,Count,2
+62,2025-02-03,2025-02-16,Running,2,Running,Count,1
+63,2025-02-03,2025-02-16,Strength,2,Strength,Count,1
+64,2025-02-03,2025-02-16,Technical skills,2,Technical skills,Count,1
+65,2025-02-03,2025-02-16,Languages,2,Languages,Count,1
+66,2025-02-17,2025-03-02,Climbing,2,Climbing,Count,2
+67,2025-02-17,2025-03-02,Running,2,Running,Count,1
+68,2025-02-17,2025-03-02,Strength,2,Strength,Count,1
+69,2025-02-17,2025-03-02,Technical skills,2,Technical skills,Count,1
+70,2025-02-17,2025-03-02,Languages,2,Languages,Count,1
+71,2025-03-03,2025-03-16,Climbing,2,Climbing,Count,2
+72,2025-03-03,2025-03-16,Running,2,Running,Count,1
+73,2025-03-03,2025-03-16,Strength,2,Strength,Count,1
+74,2025-03-03,2025-03-16,Technical skills,2,Technical skills,Count,1
+75,2025-03-03,2025-03-16,Languages,2,Languages,Count,1
+76,2025-03-17,2025-03-30,Climbing,2,Climbing,Count,2
+77,2025-03-17,2025-03-30,Running,2,Running,Count,1
+78,2025-03-17,2025-03-30,Strength,2,Strength,Count,1
+79,2025-03-17,2025-03-30,Technical skills,2,Technical skills,Count,1
+80,2025-03-17,2025-03-30,Languages,2,Languages,Count,1
+81,2025-03-31,2025-04-13,Climbing,2,Climbing,Count,2
+82,2025-03-31,2025-04-13,Running,2,Running,Count,1
+83,2025-03-31,2025-04-13,Strength,2,Strength,Count,1
+84,2025-03-31,2025-04-13,Technical skills,2,Technical skills,Count,1
+85,2025-03-31,2025-04-13,Languages,2,Languages,Count,1
+86,2025-04-14,2025-04-27,Climbing,2,Climbing,Count,2
+87,2025-04-14,2025-04-27,Running,2,Running,Count,1
+88,2025-04-14,2025-04-27,Strength,2,Strength,Count,1
+89,2025-04-14,2025-04-27,Technical skills,2,Technical skills,Count,1
+90,2025-04-14,2025-04-27,Languages,2,Languages,Count,1
+91,2025-04-28,2025-05-11,Climbing,2,Climbing,Count,2
+92,2025-04-28,2025-05-11,Running,2,Running,Count,1
+93,2025-04-28,2025-05-11,Strength,2,Strength,Count,1
+94,2025-04-28,2025-05-11,Technical skills,2,Technical skills,Count,1
+95,2025-04-28,2025-05-11,Languages,2,Languages,Count,1
+96,2025-05-12,2025-05-25,Climbing,2,Climbing,Count,2
+97,2025-05-12,2025-05-25,Running,2,Running,Count,1
+98,2025-05-12,2025-05-25,Strength,2,Strength,Count,1
+99,2025-05-12,2025-05-25,Technical skills,2,Technical skills,Count,1
+100,2025-05-12,2025-05-25,Languages,2,Languages,Count,1
+101,2025-05-26,2025-06-08,Climbing,2,Climbing,Count,2
+102,2025-05-26,2025-06-08,Running,2,Running,Count,1
+103,2025-05-26,2025-06-08,Strength,2,Strength,Count,1
+104,2025-05-26,2025-06-08,Technical skills,2,Technical skills,Count,1
+105,2025-05-26,2025-06-08,Languages,2,Languages,Count,1
+106,2025-06-09,2025-06-22,Climbing,2,Climbing,Count,2
+107,2025-06-09,2025-06-22,Running,2,Running,Count,1
+108,2025-06-09,2025-06-22,Strength,2,Strength,Count,1
+109,2025-06-09,2025-06-22,Technical skills,2,Technical skills,Count,1
+110,2025-06-09,2025-06-22,Languages,2,Languages,Count,1
+111,2025-06-23,2025-07-06,Climbing,2,Climbing,Count,2
+112,2025-06-23,2025-07-06,Running,2,Running,Count,1
+113,2025-06-23,2025-07-06,Strength,2,Strength,Count,1
+114,2025-06-23,2025-07-06,Technical skills,2,Technical skills,Count,1
+115,2025-06-23,2025-07-06,Languages,2,Languages,Count,1
+116,2025-07-07,2025-07-20,Climbing,2,Climbing,Count,2
+117,2025-07-07,2025-07-20,Running,2,Running,Count,1
+118,2025-07-07,2025-07-20,Strength,2,Strength,Count,1
+119,2025-07-07,2025-07-20,Technical skills,2,Technical skills,Count,1
+120,2025-07-07,2025-07-20,Languages,2,Languages,Count,1
+121,2025-07-21,2025-08-03,Climbing,2,Climbing,Count,2
+122,2025-07-21,2025-08-03,Running,2,Running,Count,1
+123,2025-07-21,2025-08-03,Strength,2,Strength,Count,1
+124,2025-07-21,2025-08-03,Technical skills,2,Technical skills,Count,1
+125,2025-07-21,2025-08-03,Languages,2,Languages,Count,1
+126,2025-08-04,2025-08-17,Climbing,2,Climbing,Count,2
+127,2025-08-04,2025-08-17,Running,2,Running,Count,1
+128,2025-08-04,2025-08-17,Strength,2,Strength,Count,1
+129,2025-08-04,2025-08-17,Technical skills,2,Technical skills,Count,1
+130,2025-08-04,2025-08-17,Languages,2,Languages,Count,1
+131,2025-08-18,2025-08-31,Climbing,2,Climbing,Count,2
+132,2025-08-18,2025-08-31,Running,2,Running,Count,1
+133,2025-08-18,2025-08-31,Strength,2,Strength,Count,1
+134,2025-08-18,2025-08-31,Technical skills,2,Technical skills,Count,1
+135,2025-08-18,2025-08-31,Languages,2,Languages,Count,1
+136,2025-09-01,2025-09-14,Climbing,2,Climbing,Count,2
+137,2025-09-01,2025-09-14,Running,2,Running,Count,1
+138,2025-09-01,2025-09-14,Strength,2,Strength,Count,1
+139,2025-09-01,2025-09-14,Technical skills,2,Technical skills,Count,1
+140,2025-09-01,2025-09-14,Languages,2,Languages,Count,1
+141,2025-09-15,2025-09-28,Climbing,2,Climbing,Count,2
+142,2025-09-15,2025-09-28,Running,2,Running,Count,1
+143,2025-09-15,2025-09-28,Strength,2,Strength,Count,1
+144,2025-09-15,2025-09-28,Technical skills,2,Technical skills,Count,1
+145,2025-09-15,2025-09-28,Languages,2,Languages,Count,1
+146,2025-09-29,2025-10-12,Climbing,2,Climbing,Count,2
+147,2025-09-29,2025-10-12,Running,2,Running,Count,1
+148,2025-09-29,2025-10-12,Strength,2,Strength,Count,1
+149,2025-09-29,2025-10-12,Technical skills,2,Technical skills,Count,1
+150,2025-09-29,2025-10-12,Languages,2,Languages,Count,1
+151,2025-10-13,2025-10-26,Climbing,2,Climbing,Count,2
+152,2025-10-13,2025-10-26,Running,2,Running,Count,1
+153,2025-10-13,2025-10-26,Strength,2,Strength,Count,1
+154,2025-10-13,2025-10-26,Technical skills,2,Technical skills,Count,1
+155,2025-10-13,2025-10-26,Languages,2,Languages,Count,1
+156,2025-10-27,2025-11-09,Climbing,2,Climbing,Count,2
+157,2025-10-27,2025-11-09,Running,2,Running,Count,1
+158,2025-10-27,2025-11-09,Strength,2,Strength,Count,1
+159,2025-10-27,2025-11-09,Technical skills,2,Technical skills,Count,1
+160,2025-10-27,2025-11-09,Languages,2,Languages,Count,1
+161,2025-11-10,2025-11-23,Climbing,2,Climbing,Count,2
+162,2025-11-10,2025-11-23,Running,2,Running,Count,1
+163,2025-11-10,2025-11-23,Strength,2,Strength,Count,1
+164,2025-11-10,2025-11-23,Technical skills,2,Technical skills,Count,1
+165,2025-11-10,2025-11-23,Languages,2,Languages,Count,1
+166,2025-11-24,2025-12-07,Climbing,2,Climbing,Count,2
+167,2025-11-24,2025-12-07,Running,2,Running,Count,1
+168,2025-11-24,2025-12-07,Strength,2,Strength,Count,1
+169,2025-11-24,2025-12-07,Technical skills,2,Technical skills,Count,1
+170,2025-11-24,2025-12-07,Languages,2,Languages,Count,1
+171,2025-12-08,2025-12-21,Climbing,2,Climbing,Count,2
+172,2025-12-08,2025-12-21,Running,2,Running,Count,1
+173,2025-12-08,2025-12-21,Strength,2,Strength,Count,1
+174,2025-12-08,2025-12-21,Technical skills,2,Technical skills,Count,1
+175,2025-12-08,2025-12-21,Languages,2,Languages,Count,1
+176,2025-01-06,2025-01-26,Lead climbing,3,Lead climbing,Count,1
+177,2025-01-06,2025-01-26,Intervals,3,Intervals,Count,1
+178,2025-01-27,2025-02-16,Lead climbing,3,Lead climbing,Count,1
+179,2025-01-27,2025-02-16,Intervals,3,Intervals,Count,1
+180,2025-02-17,2025-03-09,Lead climbing,3,Lead climbing,Count,1
+181,2025-02-17,2025-03-09,Intervals,3,Intervals,Count,1
+182,2025-03-10,2025-03-30,Lead climbing,3,Lead climbing,Count,1
+183,2025-03-10,2025-03-30,Intervals,3,Intervals,Count,1
+184,2025-03-31,2025-04-20,Lead climbing,3,Lead climbing,Count,1
+185,2025-03-31,2025-04-20,Intervals,3,Intervals,Count,1
+186,2025-04-21,2025-05-11,Lead climbing,3,Lead climbing,Count,1
+187,2025-04-21,2025-05-11,Intervals,3,Intervals,Count,1
+188,2025-05-12,2025-06-01,Lead climbing,3,Lead climbing,Count,1
+189,2025-05-12,2025-06-01,Intervals,3,Intervals,Count,1
+190,2025-06-02,2025-06-22,Lead climbing,3,Lead climbing,Count,1
+191,2025-06-02,2025-06-22,Intervals,3,Intervals,Count,1
+192,2025-06-23,2025-07-13,Lead climbing,3,Lead climbing,Count,1
+193,2025-06-23,2025-07-13,Intervals,3,Intervals,Count,1
+194,2025-07-14,2025-08-03,Lead climbing,3,Lead climbing,Count,1
+195,2025-07-14,2025-08-03,Intervals,3,Intervals,Count,1
+196,2025-08-04,2025-08-24,Lead climbing,3,Lead climbing,Count,1
+197,2025-08-04,2025-08-24,Intervals,3,Intervals,Count,1
+198,2025-08-25,2025-09-14,Lead climbing,3,Lead climbing,Count,1
+199,2025-08-25,2025-09-14,Intervals,3,Intervals,Count,1
+200,2025-09-15,2025-10-05,Lead climbing,3,Lead climbing,Count,1
+201,2025-09-15,2025-10-05,Intervals,3,Intervals,Count,1
+202,2025-10-06,2025-10-26,Lead climbing,3,Lead climbing,Count,1
+203,2025-10-06,2025-10-26,Intervals,3,Intervals,Count,1
+204,2025-10-27,2025-11-16,Lead climbing,3,Lead climbing,Count,1
+205,2025-10-27,2025-11-16,Intervals,3,Intervals,Count,1
+206,2025-11-17,2025-12-07,Lead climbing,3,Lead climbing,Count,1
+207,2025-11-17,2025-12-07,Intervals,3,Intervals,Count,1
+208,2025-12-08,2025-12-28,Lead climbing,3,Lead climbing,Count,1
+209,2025-12-08,2025-12-28,Intervals,3,Intervals,Count,1
+210,2025-01-01,2025-01-31,Bench,3,Bench press,Count,1
+211,2025-01-01,2025-01-31,Squats,3,Squats,Count,1
+212,2025-01-01,2025-01-31,Deadlifts,3,Deadlifts,Count,1
+213,2025-02-01,2025-02-28,Bench,3,Bench press,Count,1
+214,2025-02-01,2025-02-28,Squats,3,Squats,Count,1
+215,2025-02-01,2025-02-28,Deadlifts,3,Deadlifts,Count,1
+216,2025-03-01,2025-03-31,Bench,3,Bench press,Count,1
+217,2025-03-01,2025-03-31,Squats,3,Squats,Count,1
+218,2025-03-01,2025-03-31,Deadlifts,3,Deadlifts,Count,1
+219,2025-04-01,2025-04-30,Bench,3,Bench press,Count,1
+220,2025-04-01,2025-04-30,Squats,3,Squats,Count,1
+221,2025-04-01,2025-04-30,Deadlifts,3,Deadlifts,Count,1
+222,2025-05-01,2025-05-31,Bench,3,Bench press,Count,1
+223,2025-05-01,2025-05-31,Squats,3,Squats,Count,1
+224,2025-05-01,2025-05-31,Deadlifts,3,Deadlifts,Count,1
+225,2025-06-01,2025-06-30,Bench,3,Bench press,Count,1
+226,2025-06-01,2025-06-30,Squats,3,Squats,Count,1
+227,2025-06-01,2025-06-30,Deadlifts,3,Deadlifts,Count,1
+228,2025-07-01,2025-07-31,Bench,3,Bench press,Count,1
+229,2025-07-01,2025-07-31,Squats,3,Squats,Count,1
+230,2025-07-01,2025-07-31,Deadlifts,3,Deadlifts,Count,1
+231,2025-08-01,2025-08-31,Bench,3,Bench press,Count,1
+232,2025-08-01,2025-08-31,Squats,3,Squats,Count,1
+233,2025-08-01,2025-08-31,Deadlifts,3,Deadlifts,Count,1
+234,2025-09-01,2025-09-30,Bench,3,Bench press,Count,1
+235,2025-09-01,2025-09-30,Squats,3,Squats,Count,1
+236,2025-09-01,2025-09-30,Deadlifts,3,Deadlifts,Count,1
+237,2025-10-01,2025-10-31,Bench,3,Bench press,Count,1
+238,2025-10-01,2025-10-31,Squats,3,Squats,Count,1
+239,2025-10-01,2025-10-31,Deadlifts,3,Deadlifts,Count,1
+240,2025-11-01,2025-11-30,Bench,3,Bench press,Count,1
+241,2025-11-01,2025-11-30,Squats,3,Squats,Count,1
+242,2025-11-01,2025-11-30,Deadlifts,3,Deadlifts,Count,1
+243,2025-12-01,2025-12-31,Bench,3,Bench press,Count,1
+244,2025-12-01,2025-12-31,Squats,3,Squats,Count,1
+245,2025-12-01,2025-12-31,Deadlifts,3,Deadlifts,Count,1
